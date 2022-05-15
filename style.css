@@ -70,5 +70,17 @@ a {
     border-radius: 4px;
     border: none;
     padding: 4px 16px;
+    background-color: #3882F6;
+    color: white;
+}
+
+.content-1-placeholder-image {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: gray;
+    width: 50%;
 }
 /* Footer */
