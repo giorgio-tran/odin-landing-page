@@ -184,3 +184,10 @@ a {
 }
 
 /* Footer */
+.footer {
+    display: flex;
+    background-color: #1F2937;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 0;
+}
