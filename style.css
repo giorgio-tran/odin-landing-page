@@ -134,18 +134,25 @@ a {
     align-items: center;
     flex-direction: column;
     background-color: lightgray;
-
+    padding: 70px 30px;
 }
 
 .quote {
     display: flex;
     font-style: italic;
+    font-weight: lighter;
     font-size: 36px;
     color: #1F2937;
     width: 75%;
 }
 .author {
-    text-align: right;
     width: 75%;
+    text-align: end;
+    font-weight: bolder;
+    font-size: 18px;
+    color: #1F2937;
 }
+
+/* Content 4 */
+
 /* Footer */
